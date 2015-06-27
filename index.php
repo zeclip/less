@@ -6,7 +6,7 @@
 </head>
 <body>
 	<div id="wrap">
-		<h1>Este es nuestro header!</h1>
+		<h1>Este es nuestro header!!</h1>
 
 		<div id="columna">
 			<p>Aqui va nuestro texto ... Lorem Impsum dolor ....</p>
